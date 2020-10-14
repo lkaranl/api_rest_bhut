@@ -1,4 +1,4 @@
-# API REST BHUT
+# API REST
 
 <p align="center">
   <img width="700" height="300" src="https://raw.githubusercontent.com/lkaranl/api_rest_bhut/master/Img/logo.png">
